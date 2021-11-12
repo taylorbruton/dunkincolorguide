@@ -52,15 +52,3 @@ function darkGrey()
   navigator.clipboard.writeText(color); 
 }
 
- <div onclick="hotPink()"> </div>
- <div onclick="orange()"> </div>
- 
-<div onclick="grey()"> </div>
- <div onclick="orange2()"> </div>
- <div onclick="white()"> </div>
- <div onclick="hotPink()"> </div>
-
-<div onclick="blue()"> </div>
-<div onclick="pink()"> </div>
-<div onclick="darkBlue()"> </div>
-<div onclick="darkGrey()"> </div>
