@@ -1,0 +1,90 @@
+@font-face {
+    font-family: 'Dunkin Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Dunkin Bold'), url('Dunkin Bold.woff') format('woff');
+    }
+
+h1{ font-family: 'Dunkin Bold';
+    font-size: 50px;
+    color: #F56200; 
+    text-align: left;
+}
+
+h2{ font-family: 'Dunkin Bold';
+    font-size: 30px;
+    color: #333333; 
+    text-align: left;
+}
+
+.squaremain {
+  height: 100px;
+  width: 100px;
+  background-color: #db0a81;
+  display:inline-block; 
+}
+
+.squaremain1 {
+  height: 100px;
+  width: 100px;
+  background-color: #F56200;
+  display:inline-block; 
+}
+
+.squareF1 {
+  height: 100px;
+  width: 100px;
+  background-color: #333333;
+  display:inline-block;
+}
+.squareF2 {
+  height: 100px;
+  width: 100px;
+  background-color: #FF6E0C;
+  display:inline-block;
+}
+
+.squareF3 {
+  height: 100px;
+  width: 100px;
+  background-color: #FFFFFF;
+  display:inline-block; 
+  border: 1px solid black;
+}
+
+.squareF4 {
+  height: 100px;
+  width: 100px;
+  background-color: #db0a81;
+  display:inline-block; 
+}
+
+.squareS1 {
+  height: 100px;
+  width: 100px;
+  background-color: #24548E;
+  display:inline-block; 
+}
+
+.squareS2 {
+  height: 100px;
+  width: 100px;
+  background-color: #E27EB1;
+  display:inline-block; 
+}
+
+.squareS3 {
+  height: 100px;
+  width: 100px;
+  background-color: #0F4383;
+  display:inline-block; 
+}
+
+.squareS4 {
+  height: 100px;
+  width: 100px;
+  background-color: #1A1617;
+  display:inline-block; 
+}
+
+@media only screen and (max-width: 394px)
