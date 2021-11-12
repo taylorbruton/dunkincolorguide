@@ -52,15 +52,15 @@ function darkGrey()
   navigator.clipboard.writeText(color); 
 }
 
- <div onclick="hotPink()"> This is squaremain. </div>
- <div onclick="orange()"> This is squaremain1. </div>
+ <div onclick="hotPink()"> </div>
+ <div onclick="orange()"> </div>
  
-<div onclick="grey()"> This is squareF1. </div>
- <div onclick="orange2()"> This is squareF2. </div>
- <div onclick="white()"> This is squareF3.' </div>
- <div onclick="hotPink()"> This is squareF4. </div>
+<div onclick="grey()"> </div>
+ <div onclick="orange2()"> </div>
+ <div onclick="white()"> </div>
+ <div onclick="hotPink()"> </div>
 
-<div onclick="blue()"> This is squareS1' </div>
-<div onclick="pink()"> This is squareS2' </div>
-<div onclick="darkBlue()"> This is squareS3' </div>
-<div onclick="darkGrey()"> This is squareS4' </div>
+<div onclick="blue()"> </div>
+<div onclick="pink()"> </div>
+<div onclick="darkBlue()"> </div>
+<div onclick="darkGrey()"> </div>
